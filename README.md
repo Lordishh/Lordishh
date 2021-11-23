@@ -34,5 +34,5 @@
 <h5 align="left">Linux - Git</h5>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordishh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordishh&show_icons=true&theme=merko)
 
