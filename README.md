@@ -33,4 +33,6 @@
 <h3 align="left">Other:</h3>
 <h5 align="left">Linux - Git</h5>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordishh)](https://github.com/lordishh/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordishh&show_icons=true&theme=radical)
+
