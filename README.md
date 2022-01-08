@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23658EAB&size=27&center=true&vCenter=true&lines=Hi+👋+%2C+I'm+Enuel+Monz%C3%B3n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23658EAB&size=27&center=true&vCenter=true&lines=Hi+👋%2C+I'm+Enuel+Monz%C3%B3n)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Enuel Monzón</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
