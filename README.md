@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23658EAB&size=27&center=true&vCenter=true&lines=Hi+👋%2C+I'm+Enuel+Monzon)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23151003&size=25&center=true&width=888&lines=A+passionate+frontend+developer+from+Argentina)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Professional Full Stack Developer**
 
