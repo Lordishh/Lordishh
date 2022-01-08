@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Professional Full Stack Developer**
 
-- 💬 Ask me about **React, Angular and NodeJs**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **enuel.monzon@gmail.com**
 
