@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=71&width=900&height=110&lines=Hi+👋%2C+I'm+Enuel+Monzon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=60&width=900&height=115&lines=Hi+👋%2C+I'm+Enuel+Monzon)](https://git.io/typing-svg)
 
 <h3>A passionate frontend developer from Argentina</h3>
 
