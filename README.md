@@ -26,9 +26,7 @@
 <h3 align="left">Frontend Development:</h3>
 <h5 align="left">React - Angular - Bootstrap - HTML5 - CSS3 - </h5>
 <h3 align="left">Backend Development:</h3>
-<h5 align="left">NodeJS - express</h5>
-<h3 align="left">Database and Backend as a Service(BaaS):</h3>
-<h5 align="left">MongoDB - Firebase</h5>
+<h5 align="left">NodeJS - Express - MongoDB - Firebase</h5>
 <h3 align="left">Software:</h3>
 <h5 align="left">Photoshop - Postman</h5>
 <h3 align="left">Other:</h3>
