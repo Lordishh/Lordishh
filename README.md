@@ -44,3 +44,10 @@ class Competency extends React {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordishh&show_icons=true&theme=merko)
 
+
+#### My Projects:
+<p align="center">
+<b>Already Pinned Down for you sire!</b></br>
+<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+</p>
+
