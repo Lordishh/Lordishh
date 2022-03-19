@@ -58,8 +58,6 @@ class Competency extends React {
 
 
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordishh&show_icons=true&theme=merko)
 
 
