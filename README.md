@@ -37,6 +37,7 @@ class Skills extends SoftwareDeveloper {
 
 class Competency extends React {
   react = ['JWT', 'Redux', 'Context', 'Hooks', 'React-Router', 'Authentication', 'Styled-Components', 'Sass'];
+  other = ['Postman', 'GitHub', 'Linux', 'Windows10'] 
 }
 ```
 
