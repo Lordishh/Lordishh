@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I like to draw**
 
+![About Me](https://raw.githubusercontent.com/enua/martins-rafael/master/bio.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/lordishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lordishh" height="30" width="40" /></a>
