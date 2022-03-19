@@ -41,17 +41,6 @@ class Competency extends React {
 }
 ```
 
-<h3 align="left">Programming Languages:</h3>
-<h5 align="left">JavaScript - TypeScript</h5>
-<h3 align="left">Frontend Development:</h3>
-<h5 align="left">React - Angular - Bootstrap - HTML5 - CSS3 - </h5>
-<h3 align="left">Backend Development:</h3>
-<h5 align="left">NodeJS - Express - MongoDB - Firebase</h5>
-<h3 align="left">Software:</h3>
-<h5 align="left">Photoshop - Postman</h5>
-<h3 align="left">Other:</h3>
-<h5 align="left">Linux - Git</h5>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordishh&show_icons=true&theme=merko)
 
