@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **enuel.monzon@gmail.com**
 
-- ⚡ Fun fact **I like to draw**
 
 
 <h3 align="left">Connect with me:</h3>
