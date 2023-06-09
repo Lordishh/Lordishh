@@ -39,9 +39,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript'];
+  languages  = ['JavaScript', 'TypeScript', 'Python'];
   backend  = ['NodeJs', 'Express', 'MongoDB', 'Firebase'];
-  frontend = ['React', 'Angular', 'Bootstrap', 'HTML5', 'CSS3'];
+  frontend = ['React', 'Nextjs', 'Angular', 'Bootstrap', 'HTML5', 'CSS3'];
 }
 
 class Competency extends React {
