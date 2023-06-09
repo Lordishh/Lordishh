@@ -5,7 +5,7 @@
 
 <h3>A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Professional Full Stack Developer**
+- 🌱 I am currently a programming teacher at the National Technological University of Buenos Aires.** 
 
 - 💬 Ask me about **MERN Stack**
 
